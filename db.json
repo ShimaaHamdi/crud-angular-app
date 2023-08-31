@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "employee": [
+    {
+      "firstname": "Shaima",
+      "lastname": "Hamdi",
+      "email": "shaimaa@gmail.com",
+      "dob": "1995-09-15T21:00:00.000Z",
+      "gender": "femal",
+      "education": "Intermediate",
+      "exp": 3,
+      "package": 2,
+      "id": 1
+    },
+    {
+      "firstname": "Amr",
+      "lastname": "Ali",
+      "email": "amr@gmail.com",
+      "dob": "2023-08-15T21:00:00.000Z",
+      "gender": "femal",
+      "education": "Post Graduate",
+      "exp": 5,
+      "package": 6,
+      "id": 2
+    }
+  ]
+}
